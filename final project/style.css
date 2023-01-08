@@ -237,6 +237,10 @@ margin-right: 50px;
 margin-top: 10px;
 margin-bottom: 10px;
 }
+ .h-nav{
+            opacity: 0;
+
+        }
 .menu-icon{
 display:block;
 cursor: pointer;
